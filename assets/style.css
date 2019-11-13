@@ -86,7 +86,7 @@ img{
 
 #lantern-tall {
     grid-column: 17/19;
-    grid-row: 7/10;
+    grid-row: 9/10;
 }
 
 #kimono-1 {
@@ -130,7 +130,7 @@ img{
 }
 
 #pagoda-big {
-    grid-column: 9/13;
+    grid-column: 8/13;
     grid-row: 6/8;
 }
 
